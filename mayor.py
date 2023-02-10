@@ -2,7 +2,7 @@ class Mayor:
     def __init__(self) -> None:
         pass
 
-    def mayor(self, numero1:int, numero2:int)->int | None:
+    def mayor(self, numero1: int, numero2: int) -> int | None:
         result = 0
         if numero1 > numero2:
             result = numero1

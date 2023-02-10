@@ -10,3 +10,4 @@ class TestMayor:
 
     def test_mayor3(self):
         assert m.mayor(self,2,2) == None # type: ignore
+
